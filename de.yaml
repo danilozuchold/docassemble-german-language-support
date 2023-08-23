@@ -1214,7 +1214,6 @@
   "Your account has been disabled.": "Ihr Konto wurde deaktiviert."
   "Your account has not been enabled.": "Ihr Konto wurde nicht aktiviert."
   "Your account no longer uses two-factor authentication.": "Ihr Konto verwendet keine Zwei-Faktor-Authentifizierung mehr."
-
   "Your browser session has expired and you have been signed out.  You will not be able to save your work.  Please log in again.": "Ihre Browsersitzung ist abgelaufen und Sie wurden abgemeldet. Sie können Ihre Arbeit nicht speichern. Bitte melden Sie sich erneut an."
   "Your confirmation token has expired.": "Ihr Bestätigungstoken ist abgelaufen."
   "Your docassemble server": "Ihr Docassemble-Server"
